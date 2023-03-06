@@ -1,0 +1,10 @@
+Vous disposez de deux robots Makeblock (robot pince, robot tank),
+de divers capteurs et d’une carte joystick.
+Le robot tank :
+Il devra être autonome et suivre un trajet matérialisé au sol par
+une ligne noire. Il devra détecter automatiquement tout obstacle
+et s’arrêter tant que le chemin n’est pas dégagé.
+Le robot pince :
+Il sera piloté par joystick, son rôle est de dégager les obstacles sur le chemin du robot tank
+Bien sûr, la description du cahier des charges ci-dessus est largement évolutive et si vous avez des idées
+supplémentaires, libre à vous !
